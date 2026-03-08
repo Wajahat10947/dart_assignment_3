@@ -108,9 +108,10 @@ print("The Greatest number of ${numbers[numbers.length - 1]}");
 
 // Q.9: Given a list of integers, write a dart code that returns the maximum value from the list.
 
-
+print("The maximum Value is ${numbers[numbers.length - 1]}");
 
 // remove all false values from below list by using removeWhere or retainWhere property.
 List<String> usersEligibility = ['John', 'Alice', 'eligible', 'Mike', 'Sarah', 'Tom'];
+
 
 }
